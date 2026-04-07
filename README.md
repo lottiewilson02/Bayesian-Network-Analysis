@@ -4,4 +4,4 @@ Uses output data from featureCounts from RNA-seq pipeline (DESeq2 not required a
 Produces GRNs using both Tabu and Hillclimbing algorithms. 
 If featureCounts has been run on data through RNA-seq pipeline, then extract_data.R script is not needed. 
 
-Script order - Extract_data -> countNormalisation -> bnlearn
+# Script order - Extract_data -> countNormalisation -> bnlearn
